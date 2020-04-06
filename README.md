@@ -1,3 +1,6 @@
+# DEPRECATED
+This project is now deprecated as Blackmagic Design now has an official thumbnail provider included with their free Blackmagic RAW player and SDK.
+
 # Blackmagic Raw Thumbnail Provider
 Enables Windows to create thumbnails for Blackmagic's raw video format.
 
